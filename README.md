@@ -1,2 +1,1 @@
-# helloworld
-testing
+This is a testing project for learning github
